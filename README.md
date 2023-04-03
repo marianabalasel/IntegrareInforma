@@ -1,1 +1,1 @@
-# IntegrareInforma
+# IntegrareInformationalaProiect
